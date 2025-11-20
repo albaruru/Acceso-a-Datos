@@ -1,0 +1,21 @@
+INPUT -> PROGRAMA -> OUTPUT
+
+Texto plano -> .txt "Hola, soy Alba"
+Datos objetos -> Usuario -> Data.obj
+JSON -> [{CLAVE:VALOR}] -. URL -> .json
+XML -> root -> contenido o att -> .xml
+CSV
+
+Texto plano -> IO -> NIO
+Lecturas -> File -> FileReader -> ButterReader
+Escrituras -> File -> FileWriter -> BufferedWriter/PritWriter
+
+Flujo de datos:
+Data
+"asdaa" String
+9 int
+true bolean
+objet
+
+Lectura -> DataInput -> FileInput
+Escritura -> DataOutput -> FileOutput
